@@ -6,6 +6,7 @@ This project works with user and page data stored in a JSON file. It performs ba
 
 ## Features
 
+
 * Load data from a JSON file
 * Display users and pages
 * Remove users without a valid name
@@ -15,6 +16,7 @@ This project works with user and page data stored in a JSON file. It performs ba
 * Save cleaned data into a new JSON file
 
 ## Technologies Used
+
 
 * Python
 * JSON
@@ -28,6 +30,7 @@ This project works with user and page data stored in a JSON file. It performs ba
 
 ## Project Structure
 
+
 ```text
 json-data-cleaner/
 │
@@ -38,6 +41,7 @@ json-data-cleaner/
 ```
 
 ## Input Data
+
 
 The project takes data from:
 
